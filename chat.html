@@ -1,0 +1,44 @@
+<html>
+    <head>
+       
+        <title>der Schnack</title>
+        <link rel="stylesheet" href="style.css">
+
+
+        <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-firestore.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/live/3.1/firebase.js"></script>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+
+    
+        <body id="bg">
+            
+            <button id="logout" onclick="back();" class="glyphicon glyphicon-log-out btn btn-warning">Ausloggen</button>
+            <center>
+            <h1 class="kl">der Schnack<sup>
+                <img id="img1" src="g.gif">
+                </sup>
+                </h1>
+                </center>
+
+                <div id="output_div"></div>
+
+                <center>
+                <div id="tools">
+                    <br><br>
+                    <input type="text" placeholder="message" id="msg" style="width:70%">
+                    <br>
+                    <button id="butttonsend" onclick="send()">SEND</button>
+                    <br><br>
+                </div>
+
+</center>
+<script src="chat.js"></script>
+                </body>
+                </html>

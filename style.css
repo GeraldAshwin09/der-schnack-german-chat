@@ -1,0 +1,101 @@
+img{
+    height:200px;
+    width:200px;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+#intro{
+    background-color:crimson;
+    color:white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: cursive;
+;
+}
+
+
+#sign
+{
+    padding-top: 20px;
+}
+#int{
+    height:200px;
+    width:400px;
+
+    margin-top: 20px;
+}
+
+#op
+{
+    border-radius: 75px;
+  
+    border-style: double;
+   
+    margin-right: 200px;
+    margin-left:200px;
+    color: white;
+}
+
+#sign
+{
+    background-color: black;
+    margin-bottom: 20px;
+}
+.kl
+{
+    color: yellow;
+    font-family:monospace;
+    font-size:50px;
+}
+
+#bg{
+    background-color:crimson;
+    color:white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: cursive;
+;
+}
+#perm
+{
+    color:black;
+    background-color: grey;
+    margin-left: 500px;
+    border-radius: 75px;
+padding-left: 100px;
+padding-right: 100px;
+padding-bottom: 50px;
+padding: 50px;
+}
+#t
+{
+    margin-top:300px;
+    
+}
+#k{
+    color:gold;
+}
+#w{
+    background-color: rgb(2, 78, 70);
+    margin:100px;
+    padding: 20px;
+    border-style: solid;
+}
+
+#userid
+{
+    color:black;
+}
+#m
+{
+    margin-right: 1300px;
+}
+
+
+#tools{
+    background-color: bisque;
+    color: black;
+border-radius: 75px;
+
+}
